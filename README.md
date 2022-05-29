@@ -31,7 +31,7 @@
 1. PCB+SCH：存放WeatherClock的PCB和原理图。
 2. code：存放WeatherClock的代码。
 3. 3DFile：存放3D外壳文件。
-4. Other：存放开发以来一共购入的材料。
+4. Other：存放开发以来一共购入的材料的excel文件。
 
 
 
