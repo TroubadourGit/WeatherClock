@@ -1,0 +1,1702 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!--UGC_VERSION = 1024-->
+<XML_DOCUMENT xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+    <PTC_HEADER>
+        <VENDOR>Parametric Technology Corporation</VENDOR>
+        <PRODUCT>Creo Parametric 3502016390</PRODUCT>
+        <XML_VERSION>1.0</XML_VERSION>
+        <HOST_NAME>WIN-G2CU20HTS0Q</HOST_NAME>
+        <USER>Administrator</USER>
+        <MACHINE_TYPE> Intel64 Family 6 Model 158 Stepping 9  GenuineIntel  3504 MHz</MACHINE_TYPE>
+    </PTC_HEADER>
+    <item tag="SUMMARY OF IMPORT PROCESSING" pointer="TRUE" item_type="4">
+        <name type="9" pointer="TRUE">
+            <value__PO__ws_val__PC__>导入处理总结</value__PO__ws_val__PC__>
+        </name>
+        <item__PO__item_set__PC__ tag="NULL" pointer="TRUE">
+            <name>NULL</name>
+            <items SOAP-ENC:Array="[3]">
+                <items_ENTRY tag="Page info" pointer="TRUE" item_type="2">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY tag="current page" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="total pages" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="short log" pointer="TRUE">
+                                <name type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value type="1" pointer="TRUE">
+                                    <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY tag="Input data" pointer="TRUE" item_type="2">
+                    <name type="9" pointer="TRUE">
+                        <value__PO__ws_val__PC__>一般信息</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY tag="Interface type" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>界面类型:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="6" pointer="TRUE">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="File name" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>文件名:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="10" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>E:\important\Study\My_Project\OLED_TV\OLED_TV_V1.5 +3D文件\3DShell_PCB_ESP-01S_B.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY tag="Model name" pointer="TRUE">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>模型名称:</value__PO__ws_val__PC__>
+                                </name>
+                                <value type="10" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>B</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY tag="Geometry Processing" pointer="TRUE" item_type="4">
+                    <name type="9" pointer="TRUE">
+                        <value__PO__ws_val__PC__>几何处理</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__item_set__PC__ tag="NULL" pointer="TRUE">
+                        <name>NULL</name>
+                        <items SOAP-ENC:Array="[1]">
+                            <items_ENTRY tag="Processing errors of model" pointer="TRUE" item_type="3">
+                                <name type="9" pointer="TRUE">
+                                    <value__PO__ws_val__PC__>模型的处理错误</value__PO__ws_val__PC__>
+                                </name>
+                                <item__PO__ent_set__PC__ tag="NULL" pointer="TRUE">
+                                    <name type="6" pointer="TRUE">
+                                        <value__PO__cs_val__PC__>3DShell_PCB_ESP-01S_B</value__PO__cs_val__PC__>
+                                    </name>
+                                    <ents SOAP-ENC:Array="[43]">
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>17</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>227</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>ADVANCED_FACE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>32</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>143</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>PLANE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>60</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>114</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>159</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>143</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>PLANE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>686</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>698</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>143</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>PLANE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>742</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>754</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>143</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>PLANE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>1190</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>1202</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>143</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>PLANE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>1694</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>1706</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>143</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>PLANE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>2140</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>2585</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>3075</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>3086</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>143</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>PLANE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>3127</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>3543</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>3554</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>143</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>PLANE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>4011</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>4022</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>143</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>PLANE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>4427</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>4438</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>143</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>PLANE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>4525</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>4893</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>5307</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>5673</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>5691</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>227</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>ADVANCED_FACE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>6474</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>227</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>ADVANCED_FACE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>6628</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>227</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>ADVANCED_FACE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>6655</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>227</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>ADVANCED_FACE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>7519</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>227</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>ADVANCED_FACE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>7730</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>227</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>ADVANCED_FACE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>7738</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>8514</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>227</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>ADVANCED_FACE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>8522</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>9396</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>227</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>ADVANCED_FACE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>9404</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>10188</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>10278</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>227</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>ADVANCED_FACE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零面积曲面被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="NULL" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>10286</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>134</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="6" pointer="TRUE">
+                                                        <value__PO__cs_val__PC__>LINE</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>零长度边界曲线被跳过</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY tag="Table columns" pointer="TRUE">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY tag="Entity_id" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元 id</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Entity_type_name" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>图元类型名称</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY tag="Comment" pointer="TRUE">
+                                                    <name type="9" pointer="TRUE">
+                                                        <value__PO__ws_val__PC__>备注</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value type="1" pointer="TRUE">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                    </ents>
+                                </item__PO__ent_set__PC__>
+                            </items_ENTRY>
+                        </items>
+                    </item__PO__item_set__PC__>
+                </items_ENTRY>
+            </items>
+        </item__PO__item_set__PC__>
+    </item>
+</XML_DOCUMENT>
